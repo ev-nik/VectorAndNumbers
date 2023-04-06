@@ -3,7 +3,7 @@ QT -= gui
 
 CONFIG += c++11
 
-TARGET = vector_menu
+TARGET = VectorAndNumbers
 CONFIG += console
 CONFIG -= app_bundle
 
